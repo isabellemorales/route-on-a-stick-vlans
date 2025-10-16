@@ -13,7 +13,7 @@ Este projeto demonstra a configuração de roteamento inter-VLAN utilizando a t�
 ### Configurações dos Dispositivos:
 
 ### Configuração SW1 (Switch Server)
-
+```text
 **enable**
 **conf t**
 **vlan 10**
